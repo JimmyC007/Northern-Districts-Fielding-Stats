@@ -1,0 +1,12 @@
+# Project Outline
+In the game of cricket there are three basic positions, batters, bowlers, and fielders. Batting and bowling staistics have been recorded in depth for decades, fielding statistics however have not been captured to the same detail. Successful catches and runouts are recorded against a fielder's name but missed chances, close calls, and spectacular run-saving dives aren't captured nearly as consistently. I worked with a coach from Northern Districts Cricket Assosciation to build a system that would capture the fielding performance of the team and generate reports the coaches could then use to identify player strengths/weaknesses. The team played in two competitions, the Hallyburton Johnstone Shield (50 over format) and the Super Smash (T20 format).
+<br /> 
+## Part 1 Create App
+I needed to create a tool the coaches could use to record what was happening during each game. The tool needed to be simple due to the fast nature of T20 cricket while also capturing enough detail to conduct meaningful analysis. I settled on using Google Forms with an Appsheet front end for the coaches to use.
+
+## Part 2 Generate Game Report
+After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players.
+
+## Part 3 Visualize 
+
+
