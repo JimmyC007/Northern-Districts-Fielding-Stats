@@ -8,5 +8,5 @@ I needed to create a tool the coaches could use to record what was happening dur
 After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players. I set up an R script that cleaned the data and produced a report in markdown that I could then send to the coaches within an hour of a game finishing.
 
 ## Part 3 Visualize 
-The coach wanted a dashboard that could be used to keeep track of all the player's fielding stats throughout the season and a separate dashboard to summarize the season performance. I used Tableaau to produe these interactive dashboards and share them with the coach.
+The coach wanted a dashboard that could be used to keeep track of all the player's fielding stats throughout the season and a separate dashboard to summarize the season performance. I used Tableau to produe these interactive dashboards and share them with the coach.
 
