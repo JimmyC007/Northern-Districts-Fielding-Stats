@@ -5,7 +5,7 @@ In the game of cricket there are three basic positions, batters, bowlers, and fi
 I needed to create a tool the coaches could use to record what was happening during each game. The tool needed to be simple due to the fast nature of T20 cricket while also capturing enough detail to conduct meaningful analysis. I settled on using Google Forms with an Appsheet front end for the coaches to use.
 
 ## Part 2 Generate Game Report
-After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players. I set up an R script that cleaned the data and produced a report in markdown that I could then send to the coaches within an hour of a game finishing.
+After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players. I set up an R script that cleaned the data and produced a report in markdown that I could then send to the coaches within minutes of a game finishing.
 
 ## Part 3 Visualize 
 The coach wanted a dashboard that could be used to keeep track of all the player's fielding stats throughout the season and a separate dashboard to summarize the season performance. I used Tableau to produe these interactive dashboards and share them with the coach.
