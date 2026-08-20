@@ -7,7 +7,7 @@ The main new concept was the idea of assigning every wicket-taking chance a grad
 I needed to create a tool the coaches could use to record what was happening during each game. The tool needed to be simple due to the fast nature of T20 cricket while also capturing enough detail to conduct meaningful analysis. I settled on using Google Forms with an Appsheet front end for the coaches to use.
 
 ## Part 2 Generate Game Report
-After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players. I set up an R script that cleaned the data and produced a report in markdown that I could then send to the coaches within minutes of a game finishing.
+After each game the coach wanted the collected data to be recorded through visuals and notes which could then be shared with the players. I set up an R script that cleaned the data and produced a set of visuals in a markdown report that I could then send, along with the key highlights I identified, to the coaches within minutes of a game finishing. An example of the report can be found in this repository.
 
 ## Part 3 Visualize 
 The coach wanted a dashboard that could be used to keep track of all the player's fielding stats throughout the season and a separate dashboard to summarize the season performance. I used Tableau to produe these interactive dashboards and share them with the coach. [This dashboard](https://public.tableau.com/views/ND2223CoachesGraphs/CoachingGraphs?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) is an example of the summary the coaches had available to track individual performances throughout the season.
